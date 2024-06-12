@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCICD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e905baee7279156a45d4114cfc668738df33e60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51e7df25b68185a4bd83075dda720ee184610e94")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCICD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCICD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

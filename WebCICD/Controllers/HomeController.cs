@@ -18,6 +18,11 @@ namespace WebCICD.Controllers
             return View();
         }
 
+        public IActionResult CICD()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

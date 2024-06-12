@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA8CA3CE-F6A9-4F2E-9F23-83BCE1F8B310}|WebCICD\\WebCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\webcicd\\webcicd\\webcicd\\views\\home\\cicd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8CA3CE-F6A9-4F2E-9F23-83BCE1F8B310}|WebCICD\\WebCICD.csproj|solutionrelative:webcicd\\views\\home\\cicd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8CA3CE-F6A9-4F2E-9F23-83BCE1F8B310}|WebCICD\\WebCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\webcicd\\webcicd\\webcicd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8CA3CE-F6A9-4F2E-9F23-83BCE1F8B310}|WebCICD\\WebCICD.csproj|solutionrelative:webcicd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA8CA3CE-F6A9-4F2E-9F23-83BCE1F8B310}|WebCICD\\WebCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\webcicd\\webcicd\\webcicd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA8CA3CE-F6A9-4F2E-9F23-83BCE1F8B310}|WebCICD\\WebCICD.csproj|solutionrelative:webcicd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CICD.cshtml",
+              "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Views\\Home\\CICD.cshtml",
+              "RelativeDocumentMoniker": "WebCICD\\Views\\Home\\CICD.cshtml",
+              "ToolTip": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Views\\Home\\CICD.cshtml",
+              "RelativeToolTip": "WebCICD\\Views\\Home\\CICD.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:11:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebCICD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebCICD\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:10:35.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebCICD\\Views\\Home\\Index.cshtml",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dockerfile.yml",
               "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Dockerfile.yml",
               "RelativeDocumentMoniker": "WebCICD\\Dockerfile.yml",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "WebCICD\\Dockerfile.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-06-11T14:06:56.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:06:56.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\WebCICD\\WebCICD\\WebCICD\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebCICD\\Properties\\launchSettings.json",
