@@ -23,6 +23,11 @@ namespace WebCICD.Controllers
             return View();
         }
 
+        public IActionResult hasan()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
