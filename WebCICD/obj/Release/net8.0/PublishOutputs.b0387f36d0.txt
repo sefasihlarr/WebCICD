@@ -1,0 +1,7 @@
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\WebCICD.exe
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\WebCICD.dll
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\WebCICD.deps.json
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\WebCICD.runtimeconfig.json
+C:\Users\ortak\Masaüstü\WebCICD\WebCICD\WebCICD\obj\Release\net8.0\PubTmp\Out\WebCICD.pdb
